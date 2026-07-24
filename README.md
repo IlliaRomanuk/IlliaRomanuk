@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo.jpg" width="110" alt="logo" />
+<img src="./assets/banner.png" width="100%" alt="banner" />
 
 # Illia Romaniuk
 
