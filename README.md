@@ -42,7 +42,7 @@ Currently at **7leads**, refactoring legacy UI into reusable React components, m
 | [hlegal](https://github.com/IlliaRomanuk/hlegal) | Multi-page site built from a ready-made design: full front-end markup, navigation, responsive layout | HTML5, CSS3, Flexbox/Grid |
 | [Todo List](https://github.com/IlliaRomanuk/hljs/tree/main/34.1/34) | Full CRUD task manager with async side effects handled via Redux-Saga | React, Redux-Saga |
 
-*(Live demo links coming as projects get deployed — check back soon.)*
+*(Live demo links coming as projects get deployed - check back soon.)*
 
 ## Currently
 
