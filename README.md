@@ -37,8 +37,8 @@ Currently at **7leads**, refactoring legacy UI into reusable React components, m
 
 | Project | What it is | Tech |
 |---|---|---|
-| [MOP — Rotating Mop Landing Page](https://github.com/IlliaRomanuk/mop) | E-commerce product landing page: image gallery synced with a slider, dual countdown timers, order form | HTML5, CSS3, Swiper.js, Vanilla JS |
-| [Backpack — E-commerce Landing](https://github.com/IlliaRomanuk/backpack) | Conversion-focused landing page with a modal system, FAQ accordion, and an infinite-navigation image carousel | HTML5, CSS3, JavaScript |
+| [MOP - Rotating Mop Landing Page](https://github.com/IlliaRomanuk/mop) | E-commerce product landing page: image gallery synced with a slider, dual countdown timers, order form | HTML5, CSS3, Swiper.js, Vanilla JS |
+| [Backpack - E-commerce Landing](https://github.com/IlliaRomanuk/backpack) | Conversion-focused landing page with a modal system, FAQ accordion, and an infinite-navigation image carousel | HTML5, CSS3, JavaScript |
 | [hlegal](https://github.com/IlliaRomanuk/hlegal) | Multi-page site built from a ready-made design: full front-end markup, navigation, responsive layout | HTML5, CSS3, Flexbox/Grid |
 | [Todo List](https://github.com/IlliaRomanuk/hljs/tree/main/34.1/34) | Full CRUD task manager with async side effects handled via Redux-Saga | React, Redux-Saga |
 
